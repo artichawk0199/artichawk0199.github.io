@@ -1,11 +1,11 @@
 {
   "name": "Forge Companion",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "manifest_version": 1,
   "description": "Token notes, stat blocks and character sheets with Dice+ rolls.",
   "author": "Daniele",
   "icon": "/icon.svg",
   "background_url": "/background.html",
-  "action": { "title": "Forge Companion", "icon": "/icon.svg", "popover": "/index.html", "width": 440, "height": 640 },
+  "action": { "title": "Forge Companion", "icon": "/icon.svg", "popover": "/index.html", "width": 400, "height": 560 },
   "permissions": [ { "name": "clipboard-write", "reason": "Copy the diagnostics report" } ]
 }
