@@ -1,0 +1,10 @@
+{
+  "name": "Forge Companion v2 (test)",
+  "version": "2.0.1",
+  "manifest_version": 1,
+  "description": "Forge v2 test build: data packs from 5etools and Owlbear checks.",
+  "author": "Daniele",
+  "icon": "/forge2/icon.svg",
+  "action": { "title": "Forge Companion v2", "icon": "/forge2/icon.svg", "popover": "/forge2/index.html", "width": 400, "height": 600 },
+  "permissions": [ { "name": "clipboard-write", "reason": "Copy the test report" } ]
+}
