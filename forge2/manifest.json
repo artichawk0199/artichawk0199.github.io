@@ -1,10 +1,11 @@
 {
   "name": "Forge Companion v2 (test)",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "manifest_version": 1,
-  "description": "Forge v2 test build: data packs from 5etools and Owlbear checks.",
+  "description": "Token notes, stat blocks and character sheets with Dice+ rolls, with data from your 5etools packs.",
   "author": "Daniele",
   "icon": "/forge2/icon.svg",
-  "action": { "title": "Forge Companion v2", "icon": "/forge2/icon.svg", "popover": "/forge2/index.html", "width": 400, "height": 600 },
-  "permissions": [ { "name": "clipboard-write", "reason": "Copy the test report" } ]
+  "background_url": "/forge2/background.html",
+  "action": { "title": "Forge Companion v2", "icon": "/forge2/icon.svg", "popover": "/forge2/index.html", "width": 400, "height": 560 },
+  "permissions": [ { "name": "clipboard-write", "reason": "Copy the diagnostics report" } ]
 }
